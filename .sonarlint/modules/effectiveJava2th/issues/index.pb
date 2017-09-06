@@ -13,3 +13,11 @@ k
 -src/ch02/item02/javabeans/NutritionFacts.java,e\f\ef98b9bb547e7ecfa3fbc7e25cde63d5ff712138
 [
 +src/ch02/item02/bulider/NutritionFacts.java,7\d\7daa72cf2ea39871de7aef822938414066ad3dbb
+P
+ src/ch02/item03/field/Elvis.java,8\e\8e04144a790b7f1402c058f5c605aa1ef6535a07
+Q
+!src/ch02/item03/method/Elvis.java,f\3\f3a6eb908cd93779f6ee4d51dec223d217238d44
+W
+'src/ch02/item03/serializable/Elvis.java,a\9\a9ff2e82a7bade12c11974cd1479cfb896ec4b7b
+P
+ src/ch02/item03/enums/Elvis.java,6\0\60248708b7fdc9643009038cba57d0e9a1ded171

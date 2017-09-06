@@ -1,0 +1,7 @@
+
+m
+squid:S106";Replace this usage of System.out or System.err by a logger.(∞ËÁV8≤§±πÂ+HèRMAJORZ
+CODE_SMELL
+dsquid:S1444".Make this "public static INSTANCE" field final(»£®8ä‰∞πÂ+HéRMINORZVULNERABILITY
+Üsquid:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»£®8ä‰∞πÂ+HçRMINORZ
+CODE_SMELL
