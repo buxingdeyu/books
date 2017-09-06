@@ -1,0 +1,9 @@
+
+gsquid:S1068
+"/Remove this unused "servingSize" private field.(ตม€ฬýÿÿÿÿ8ครนๅ+H_RMAJORZ
+CODE_SMELL
+esquid:S1481D"-Remove this unused "cocaCola" local variable.(์๎รÿÿÿÿÿ8ครนๅ+HaRMINORZ
+CODE_SMELL
+msquid:S1854D"<Remove this useless assignment to local variable "cocaCola".(์๎รÿÿÿÿÿ8ครนๅ+HbRMAJORZBUG
+dsquid:S1068",Remove this unused "servings" private field.(๒’ฉๆ๘ÿÿÿÿ8ครนๅ+H`RMAJORZ
+CODE_SMELL
