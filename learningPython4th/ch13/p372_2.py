@@ -1,0 +1,1 @@
+print(list(zip(open('p345.py'),open('p345.py'))))

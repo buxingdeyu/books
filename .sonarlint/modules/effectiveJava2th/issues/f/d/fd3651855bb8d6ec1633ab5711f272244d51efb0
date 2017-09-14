@@ -1,17 +1,0 @@
-
-asquid:S1481."-Remove this unused "cocaCola" local variable.(Ÿ¤ûÄ8Û¿÷¸å+HƒRMINORZ
-CODE_SMELL
-_squid:S1068",Remove this unused "calories" private field.(õà×‚8Û¿÷¸å+H{RMAJORZ
-CODE_SMELL
-hsquid:S1068"0Remove this unused "carbohydrate" private field.(æÆÒ‡ıÿÿÿÿ8Û¿÷¸å+HyRMAJORZ
-CODE_SMELL
-`squid:S1068"'Remove this unused "fat" private field.(ÑÊÿÓıÿÿÿÿ8Û¿÷¸å+HRMAJORZ
-CODE_SMELL
-bsquid:S1068"*Remove this unused "sodium" private field.(è¶™Ñùÿÿÿÿ8Û¿÷¸å+HwRMAJORZ
-CODE_SMELL
-^squid:S1068
-",Remove this unused "servings" private field.(©é8Û¿÷¸å+HqRMAJORZ
-CODE_SMELL
-bsquid:S1068	"/Remove this unused "servingSize" private field.(·”äµ8Û¿÷¸å+H}RMAJORZ
-CODE_SMELL
-hsquid:S1854."<Remove this useless assignment to local variable "cocaCola".(Ÿ¤ûÄ8Û¿÷¸å+HRMAJORZBUG

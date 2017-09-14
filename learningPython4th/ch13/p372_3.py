@@ -1,0 +1,1 @@
+print(list(filter(bool,open('p345.py'))))

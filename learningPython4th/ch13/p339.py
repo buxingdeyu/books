@@ -1,0 +1,5 @@
+def func1():
+	...
+	print('func1')
+
+func1()
